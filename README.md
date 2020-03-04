@@ -1,6 +1,6 @@
 # Vanilla-JS-Calculator
 
-![](js-Calculator.gif)
+![](js-calculator.gif)
 
 
 
