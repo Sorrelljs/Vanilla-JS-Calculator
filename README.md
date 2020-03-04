@@ -11,5 +11,9 @@ CSS
 
 ### Learned
 
-A very fun project to do. Here i worked with variables, constructors, functions (for javascript). I worked with (for css) and (data attributes for HTML)
+A very fun project to do. 
+
+Here i worked with variables, constructors, functions (for javascript).
+I also worked with grid(for css)
+(data attributes for HTML)
 
